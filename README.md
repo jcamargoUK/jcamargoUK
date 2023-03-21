@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior frontend developer
 -------------------------
 
-I'm about to complete the School of Code full stack web development bootcamp and in chase for my first junior frontend developer job. Constantly learning javascript, React , HTML5 and SCSS. Away from learning, I like to spend my time taking Figma sketches and turn them into responsive web pages.
+I completed the School of Code full stack web development bootcamp and I'm looking for my first junior frontend developer job. Constantly learning javascript, React , HTML5 and SCSS. Away from learning, I like to spend my time taking Figma sketches and turn them into responsive web pages.
 
 *   🌍  I'm based in London UK
-*   🖥️  See my portfolio at [GitHub](http://github.com/jcamargoUK)
 *   ✉️  You can contact me at [jcamargo@hotmail.co.uk](mailto:jcamargo@hotmail.co.uk)
 *   🧠  I'm learning React and everything javascript
 *   🤝  I'm open to collaborating on frontend projects
