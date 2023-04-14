@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julio Camargo
-=====================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julio 
+=============================================================================================================================
 
  < Web Developer />
 --------------------
@@ -10,9 +10,9 @@ My goal is to produce top-notch code optimised for performance and scalability, 
 
 *   🌍  I'm based in London UK
 *   ✉️  You can contact me at [jcamargo@hotmail.co.uk](mailto:jcamargo@hotmail.co.uk)
-*   🧠  I'm learning React and everything javascript
+*   🧠  I'm passionate about React and everything javascript, CSS and visual effects.
 *   🤝  I'm open to collaborating on frontend projects
-*   ⚡  Away from coding, I spend some of my time cycling around south London and the Surrey Hills
+*   ⚡  Away from coding, I spend some of my time cycling around south London and the Surrey Hills listening to Metallica.
    
 
 ### Skills 
