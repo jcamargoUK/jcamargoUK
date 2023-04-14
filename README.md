@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julio Camargo
 =====================================================================================================================================
 
-Junior frontend developer
--------------------------
+ < Web Developer />
+--------------------
 
-I completed the School of Code full stack web development bootcamp and I'm looking for my first junior frontend developer job. Constantly learning javascript, React , HTML5 and SCSS. Away from learning, I like to spend my time taking Figma sketches and turn them into responsive web pages.
+Im a front end engineer passionate about creating visually stunning websites with exceptional user experience.
+I value communication and collaboration with my clients to ensure that their website reflects their brand identity and achieves their desired outcomes.
+My goal is to produce top-notch code optimised for performance and scalability, helping my clients establish a strong online presence.
 
 *   🌍  I'm based in London UK
 *   ✉️  You can contact me at [jcamargo@hotmail.co.uk](mailto:jcamargo@hotmail.co.uk)
