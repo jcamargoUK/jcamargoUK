@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  < Web Developer />
 --------------------
 
-Im a front end engineer passionate about creating visually stunning websites with exceptional user experience.
-I value communication and collaboration with my clients to ensure that their website reflects their brand identity and achieves their desired outcomes.
-My goal is to produce top-notch code optimised for performance and scalability, helping my clients establish a strong online presence.
+Full Stack Web Developer with a strong foundation in web development.
+Former facilities manager with valuable experience in project management, team leadership, and effective communication.
+Skilled in attention to detail and critical thinking to troubleshoot issues in web development projects. Committed to working
+collaboratively with colleagues to ensure high-quality work and timely project delivery.
+Outside of work, I enjoy heavy metal music and road cycling and movies.
 
 *   🌍  I'm based in London UK
 *   ✉️  You can contact me at [jcamargo@hotmail.co.uk](mailto:jcamargo@hotmail.co.uk)
